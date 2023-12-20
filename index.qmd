@@ -1,0 +1,48 @@
+---
+title: ""
+sidebar: false
+format: 
+  html:
+    toc: false
+    page-layout: full
+---
+
+# Research interests
+
+::: {.callout-warning icon="false"}
+## 📢 Join us!
+
+We are currently looking and recruiting for M.Sc. or Ph.D. students!! You can contact us by email ([ponsit.sat\@gmail.com](mailto:ponsit.sat@gmail.com)) or just walk in at our lab (BSc0204).
+:::
+
+Our lab focuses on the study of functional genomics and epigenetics using Bioinformatics to elucidate the regulation of important phenotypes in various types of agricultural organisms including economical marine shrimp, durian, etc. The main goal is to introduce bioinformatics to investigate and explore functional genes involved in physiological and developmental processes and find out a way to improve productivity and increase the quantities and quality of agricultural organisms. We are studying many molecular biology levels using high-throughput data such as transcriptome, genotyping by sequencing, and bisulfite sequencing together with bioinformatics. Now, marine shrimp is one of our economic aquatic animals, and we are also working on economic plants such as durian collaborating with the Faculty of Natural Resource, PSU, and the Faculty of Technology and Community Development, TSU. We now provide a computer server that serves various types of bioinformatics analysis.
+
+![](https://molbioshrimp.files.wordpress.com/2019/08/ps-lab.jpg){fig-align="center"}
+
+In addition, bacterial genomics and metagenomics using MinION (Nanopore sequencing technology) in the aspect of agriculture are in our interests.
+
+Bioinformatics data provide several kinds of our scope of studies, particularly
+
+1.  Potential long non-coding RNAs (lncRNAs) and circular RNA (circRNA) studies in several stressed conditions.
+
+2.  Epigenetic study, in particular, DNA methylation study.
+
+3.  Development of DNA markers for important trait selection in plants and animals.
+
+4.  Develop the databases of Penaeid's lncRNAs and SNPs.
+
+5.  Bacterial genome and metagenomics
+
+We are also interested to use high-throughput technology in other organisms, such as Torch ginger, lotus, and pathogenic and probiotic microorganisms.
+
+# Collaborations
+
+-   Biotec, NSTDA
+
+-   Faculty of Natural Resources, PSU
+
+-   Faculty of Technology and Community Development, TSU.
+
+-   Institute of Molecular Bioscience, MU
+
+-   Faculty of Science, CU

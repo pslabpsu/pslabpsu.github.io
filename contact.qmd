@@ -1,0 +1,32 @@
+---
+title: ""
+sidebar: false
+format: 
+  html:
+    toc: false
+    page-layout: full
+---
+
+# Get in Touch with Us!
+
+ 
+
+![](img/abbl_logo_horizontal.png){fig-align="center" width="500"}
+
+ 
+
+We are the Agricultural Biotech & Bioinformatics Laboratory, under the Division of Biological Science, [Faculty of Science](https://www.sci.psu.ac.th/), Prince of Songkla University, Thailand.
+
+ 
+
+```{r message=FALSE, warning=FALSE, echo=FALSE, eval=TRUE}
+library(leaflet)
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=100.49948057047378, 
+             lat=7.0064145091641885)
+```
+
+ 
+
+Feel free to get in touch with us through email: `ponsit.sat@gmail.com`, or you can stop by our lab at the room Bsc0204, Basic Science (BSc) Building (อาคารเรียนและปฏิบัติการพื้นฐานทางวิทยาศาสตร์) 🙂

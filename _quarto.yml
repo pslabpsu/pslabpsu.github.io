@@ -1,0 +1,58 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - 'index.qmd'
+    - 'people.qmd'
+    - 'blog.qmd'
+    - 'publications.qmd'
+    - 'contact.qmd'
+
+website:
+  cookie-consent: true
+  title: "Agricultural Biotech & Bioinformatics Lab, PSU"
+  description: "Faculty of Science, Prince of Songkla University"
+  reader-mode: true
+  favicon: "img/fav_abbl_logo.png"
+  open-graph: true
+  
+  page-footer:
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    left: "&copy; Copyright 2023, Agricultural Biotech & Bioinformatics Lab, PSU"
+    background: "#E5E7E9"
+  
+  sidebar: false
+  
+  navbar:
+    search: true
+    reader-mode: false
+    background: "#117A65"
+    logo: "img/fav_abbl_logo.png"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: people.qmd
+        text: Members
+      - href: blog.qmd
+        text: Blog
+      - href: publications.qmd
+        text: Publications
+      - href: contact.qmd
+        text: Contact Us
+    right:
+      - icon: github
+        href: https://www.facebook.com/pslabpsu
+      - icon: facebook
+        href: https://www.facebook.com/pslabpsu
+
+format:
+  html:
+    css: styles.css
+    toc: true
+    eval: false
+    theme:
+      light: flatly
+      dark: darkly
+
+editor: visual
+

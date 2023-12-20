@@ -1,0 +1,182 @@
+---
+title: ""
+sidebar: false
+format: 
+  html:
+    toc: false
+    page-layout: full
+---
+
+# Members
+
+## Principal Investigators
+
+![](https://www.sci.psu.ac.th/staffpic/0033814.webp){fig-align="center" width="40%"}
+
+**Assoc. Prof. Ponsit Sathapondecha, Ph.D.**
+
+**Lecturer and principal investigator**
+
+He was born in Bangkok. He finished at Debsirin school, Bangkok before graduating with his Bachelor's degree in Biology with 2nd honor class at Chulalongkorn University. Then, he finished his Master's and Ph.D. in Molecular Genetics and Genetic Engineering at the Institute of Biosciences, Mahidol University. Since 2016 until now, he has been a lecturer at the Department of Molecular Biotechnology and Bioinformatics, Faculty of Science, Prince of Songkla University.
+
+## Students
+
+::: column-page
+::: {style="padding-left: 50px; padding-right: 50px; display: inline-block;"}
+::: {layout-ncol="3"}
+::: {style="text-align: left;"}
+![](img/p-yodsawat.jpg){fig-align="center" width="20%"}
+
+**Prasert (Tom) Yodsawat, Ph.D. Student**
+
+He finished his BSc. (Biotechnology) and M.Sc. (Molecular Biotechnology and Bioinformatics) from the Department of Molecular Biotechnology and Bioinformatics, PSU. He is a bioinformatician who likes to explore novel strategies for bioinformatics in many aspects. Now, his project focuses on the interaction of microbiome and abiotic conditions for coffee plantation and production as well as the development of a friendly program for metatranscriptome analysis.
+:::
+
+::: {style="text-align: left;"}
+![](img/t-klahan.jpg){fig-align="center" style="align: right;" width="20%"}
+
+**Therissara (Ploy) Klahan, M.Sc. Student**
+
+She finished her BSc. (Biotechnology) from the Department of Molecular Biotechnology and Bioinformatics, PSU. She worked as a scientist at the Faculty of Medicine, PSU, and Medical Technology Service Center (Phuket) for 2 years. Now, she is carrying out a project about genome and variant analysis of different *Vibrio parahaemolyticus* isolations and their virulent phenotype in white shrimp and is financially supported by a Research Assistant Scholarship from the Faculty of Science, PSU.
+:::
+
+::: {style="text-align: left;"}
+![](img/p-thongsen.jpg){fig-align="center" style="align: right;" width="20%"}
+
+**Pimpakan (Kam) Thongsen, M.Sc. Student**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+:::
+:::
+:::
+:::
+
+<!-- ##########################################33 -->
+
+::: column-page
+::: {style="padding-left: 50px; padding-right: 50px; display: inline-block;"}
+::: {layout-ncol="3"}
+::: {style="text-align: left;"}
+![](img/m-kolae.jpg){fig-align="center" width="20%"}
+
+**Muhammadarfan (Fan) koleah, Undergraduate Student**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+:::
+
+::: {style="text-align: left;"}
+![](img/n-prompat.jpg){fig-align="center" style="align: right;" width="20%"}
+
+**Nutchanart (Nam-tarn) Prompat, Undergraduate Student**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+:::
+
+::: {style="text-align: left;"}
+![](img/n-jehma.jpg){fig-align="center" style="align: right;" width="20%"}
+
+**Nirusna (Baby) Jehma, Undergraduate Student**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+:::
+:::
+:::
+:::
+
+<!-- ##########################################33 -->
+
+::: column-page
+::: {style="padding-left: 50px; padding-right: 50px; display: inline-block;"}
+::: {layout-ncol="3"}
+::: {style="text-align: left;"}
+![](img/s-salea.jpg){fig-align="center" width="20%"}
+
+**Soreeya (Toey) salea, Undergraduate Student**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+:::
+
+::: {style="text-align: left;"}
+ 
+:::
+
+::: {style="text-align: left;"}
+ 
+:::
+:::
+:::
+:::
+
+## Research Assistants
+
+<!-- ##########################################33 -->
+
+::: column-page
+::: {style="padding-left: 50px; padding-right: 50px; display: inline-block;"}
+::: {layout-ncol="3"}
+::: {style="text-align: left;"}
+![](img/p-suksri.jpg){fig-align="center" width="20%"}
+
+**Phassorn (Thua) Suksri**
+
+**B.Sc. in Biotechnology**
+
+She finished her B.Sc. Biotechnology from Faculty of Science, PSU. Now, her work is about performing the assessment of indigenous durian for drought-tolerant rootstock production, and shrimp feeding. She likes taking photography and listening to music.
+:::
+
+::: {style="text-align: left;"}
+![](img/p-olasard.jpg){fig-align="center" width="20%"}
+
+**Praewrung (Aum) Olasard**
+
+**M.Sc. in Molecular Biology and Bioinformatics**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+:::
+
+::: {style="text-align: left;"}
+ 
+:::
+:::
+:::
+:::
+
+## Former Members
+
+-   Ms. Thi Hai Au La (Au) (Research assistant at Vietnam National University)
+
+-   Ms. Jiratchaya Nuanpirom (Ph.D. student at Department of Biochemistry, Faculty of Science, MU)
+
+-   Mr. Dollaporn Moosikapong (Dol)
+
+-   Ms. Chutikan Petcharat (Research assistant at Faculty of Tropical Medicine, MU)
+
+-   Ms. Thitima Dangkhaw (Beam)
+
+-   Ms. Nichapat Chaitip (Research assistant at Faculty of Dentist, PSU)
+
+-   Ms. Aupaporn Mokaew (Officer at a private hospital, Bangkok)
+
+-   Ms. Chanikarn Thaneerat (Scientist in CP company)
+
+-   Ms. Parachanan Choonuan
+
+-   Ms. Thimpika Thepsuwan (Research assistant at Biotec, NSTDA supervised by Dr. Wanilada Rungrassamee)
+
+-   Ms. Manita Nonsung (Ph.D. student at Department of Biochemistry, Faculty of Science, MU)
+
+-   Ms. Rossana Ritaksorn (Staff at Yala hospital)
+
+-   Ms. Nudulhuda Bazor (Research assistant at Faculty of Medicine, PSU)
+
+-   Ms. Jariya Hengprakob (BSI company)
+
+-   Ms. Jomkwan Ongarj (M.Sc. student at Faculty of Medicine, PSU)
+
+-   Mr. Lathapol Boonsermsukchareon (Research manager at BGI company)
+
+-   Ms. Fadlatee Manor
+
+-   Ms. Boonyaporn Yodrat (Business Owner)
+
+-   Ms. Keawpenpas Khawman (Staff at Thammasat University)
