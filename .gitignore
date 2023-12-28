@@ -1,3 +1,7 @@
 .quarto/
 .Rhistory
 .Rproj.user/
+.Rprofile
+renv/
+
+/.quarto/
