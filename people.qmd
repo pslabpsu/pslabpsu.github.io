@@ -43,9 +43,9 @@ She finished her BSc. (Biotechnology) from the Department of Molecular Biotechno
 ::: {style="text-align: left;"}
 ![](img/p-thongsen.jpg){fig-align="center" style="align: right;" width="20%"}
 
-**Pimpakan (Kam) Thongsen, M.Sc. Student**
+**Pimpakan (Kaem) Thongsen, M.Sc. Student**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Kaem is a master student in a Higher Education for Industry (Hi-FI) consortium, associating in the coffee fermentation process. She graduated with B.Sc. in Biotechnology from Prince of Songkla University. Ouside the lab, she enjoys music and tasting coffee.
 :::
 :::
 :::
@@ -59,9 +59,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ::: {style="text-align: left;"}
 ![](img/m-kolae.jpg){fig-align="center" width="20%"}
 
-**Muhammadarfan (Fan) koleah, Undergraduate Student**
+**Muhammadarfan (Fahn) koleah, Undergraduate Student**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Fahn is an undergraduate student in Biotechnology, working on a coffee fermentation project. Beyond the lab, he aspires to become a high school teacher in science. Outside of academics, he enjoys gaming, finding it both relaxing and beneficial for honing his planning and thinking skills.
 :::
 
 ::: {style="text-align: left;"}
@@ -69,7 +69,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 **Nutchanart (Nam-tarn) Prompat, Undergraduate Student**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Nam-tarn is an undergraduate student in Biotechnology. She has a keen interest in laboratory services and administration tasks. She is also interest in a bakery/restaurant entrepreneurship. Outside of academics, she prefer to spend time with herself, good music and recreation to melting away stress and coming back refreshed.
 :::
 
 ::: {style="text-align: left;"}
@@ -77,7 +77,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 **Nirusna (Baby) Jehma, Undergraduate Student**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Baby, an undergraduate student in Biotechnology, exhibits a keen interest in exploring the genome and genetic diversity of torch ginger. Currently engaged in coursework and lab activities, she is actively delving into this field. Additionally, she aspires to pursue advanced studies in molecular biology/bioinformatics. Outside the lab, she finds solace and freedom in painting, using this creative outlet as a means to relieve stress and embrace the joy of life.
 :::
 :::
 :::
@@ -93,7 +93,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 **Soreeya (Toey) salea, Undergraduate Student**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Toey is an undergraduate student in Biotechnology. She has a keen interest in animal research for understanding and improving their health and wellbeing, and are currently exploring this field through her course and lab works. Outside of academics, Toey is a sociable person who loves watching movies, listening to the music, and enjoying recreational activities with friends.
 :::
 
 ::: {style="text-align: left;"}
@@ -121,7 +121,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 **B.Sc. in Biotechnology**
 
-She finished her B.Sc. Biotechnology from Faculty of Science, PSU. Now, her work is about performing the assessment of indigenous durian for drought-tolerant rootstock production, and shrimp feeding. She likes taking photography and listening to music.
+She finished her B.Sc. Biotechnology from Faculty of Science, PSU. Now, her work is about performing the assessment of indigenous durian for drought-tolerant rootstock production, and shrimp feeding. She is a Thai tea lover. She likes taking photography and listening to music.
 :::
 
 ::: {style="text-align: left;"}
@@ -131,7 +131,7 @@ She finished her B.Sc. Biotechnology from Faculty of Science, PSU. Now, her work
 
 **M.Sc. in Molecular Biology and Bioinformatics**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Aum is a research assistant associating in the projects in marine shrimp molecular biology and microbiome in coffee fermentation. She graduated with M.Sc. in Molecular Biology and Bioinformatics from Prince of Songkla University. Ouside the lab, she enjoys music, and cheering her favourite music bands.
 :::
 
 ::: {style="text-align: left;"}
@@ -143,7 +143,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Former Members
 
--   Ms. Thi Hai Au La (Au) (Research assistant at Vietnam National University)
+-   Ms. Thi Hai Au La (Au) (Ph.D. student at University of Hawaii, USA)
 
 -   Ms. Jiratchaya Nuanpirom (Ph.D. student at Department of Biochemistry, Faculty of Science, MU)
 
