@@ -11,7 +11,7 @@ format:
 
 ## Principal Investigators
 
-![](https://www.sci.psu.ac.th/staffpic/0033814.webp){fig-align="center" width="40%"}
+![](img/p-sathapondecha.png){fig-align="center" width="50%"}
 
 **Assoc. Prof. Ponsit Sathapondecha, Ph.D.**
 
