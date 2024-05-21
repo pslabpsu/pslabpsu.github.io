@@ -27,7 +27,7 @@ He was born in Bangkok. He finished at Debsirin school, Bangkok before graduatin
 ::: {style="text-align: left;"}
 ![](img/p-yodsawat.jpg){fig-align="center" width="20%"}
 
-**Prasert (Tom) Yodsawat, Ph.D. Student**
+**Prasert Yodsawat, Ph.D. Student**
 
 He finished his BSc. (Biotechnology) and M.Sc. (Molecular Biotechnology and Bioinformatics) from the Department of Molecular Biotechnology and Bioinformatics, PSU. He is a bioinformatician who likes to explore novel strategies for bioinformatics in many aspects. Now, his project focuses on the interaction of microbiome and abiotic conditions for coffee plantation and production as well as the development of a friendly program for metatranscriptome analysis.
 :::
@@ -35,7 +35,7 @@ He finished his BSc. (Biotechnology) and M.Sc. (Molecular Biotechnology and Bioi
 ::: {style="text-align: left;"}
 ![](img/t-klahan.jpg){fig-align="center" style="align: right;" width="20%"}
 
-**Therissara (Ploy) Klahan, M.Sc. Student**
+**Therissara Klahan, M.Sc. Student**
 
 She finished her BSc. (Biotechnology) from the Department of Molecular Biotechnology and Bioinformatics, PSU. She worked as a scientist at the Faculty of Medicine, PSU, and Medical Technology Service Center (Phuket) for 2 years. Now, she is carrying out a project about genome and variant analysis of different *Vibrio parahaemolyticus* isolations and their virulent phenotype in white shrimp and is financially supported by a Research Assistant Scholarship from the Faculty of Science, PSU.
 :::
@@ -43,65 +43,9 @@ She finished her BSc. (Biotechnology) from the Department of Molecular Biotechno
 ::: {style="text-align: left;"}
 ![](img/p-thongsen.jpg){fig-align="center" style="align: right;" width="20%"}
 
-**Pimpakan (Kaem) Thongsen, M.Sc. Student**
+**Pimpakan Thongsen, M.Sc. Student**
 
-Kaem is a master student in a Higher Education for Industry (Hi-FI) consortium, associating in the coffee fermentation process. She graduated with B.Sc. in Biotechnology from Prince of Songkla University. Ouside the lab, she enjoys music and tasting coffee.
-:::
-:::
-:::
-:::
-
-<!-- ##########################################33 -->
-
-::: column-page
-::: {style="padding-left: 50px; padding-right: 50px; display: inline-block;"}
-::: {layout-ncol="3"}
-::: {style="text-align: left;"}
-![](img/m-kolae.jpg){fig-align="center" width="20%"}
-
-**Muhammadarfan (Fahn) koleah, Undergraduate Student**
-
-Fahn is an undergraduate student in Biotechnology, working on a coffee fermentation project. Beyond the lab, he aspires to become a high school teacher in science. Outside of academics, he enjoys gaming, finding it both relaxing and beneficial for honing his planning and thinking skills.
-:::
-
-::: {style="text-align: left;"}
-![](img/n-prompat.jpg){fig-align="center" style="align: right;" width="20%"}
-
-**Nutchanart (Nam-tarn) Prompat, Undergraduate Student**
-
-Nam-tarn is an undergraduate student in Biotechnology. She has a keen interest in laboratory services and administration tasks. She is also interest in a bakery/restaurant entrepreneurship. Outside of academics, she prefer to spend time with herself, good music and recreation to melting away stress and coming back refreshed.
-:::
-
-::: {style="text-align: left;"}
-![](img/n-jehma.jpg){fig-align="center" style="align: right;" width="20%"}
-
-**Nirusna (Baby) Jehma, Undergraduate Student**
-
-Baby, an undergraduate student in Biotechnology, exhibits a keen interest in exploring the genome and genetic diversity of torch ginger. Currently engaged in coursework and lab activities, she is actively delving into this field. Additionally, she aspires to pursue advanced studies in molecular biology/bioinformatics. Outside the lab, she finds solace and freedom in painting, using this creative outlet as a means to relieve stress and embrace the joy of life.
-:::
-:::
-:::
-:::
-
-<!-- ##########################################33 -->
-
-::: column-page
-::: {style="padding-left: 50px; padding-right: 50px; display: inline-block;"}
-::: {layout-ncol="3"}
-::: {style="text-align: left;"}
-![](img/s-salea.jpg){fig-align="center" width="20%"}
-
-**Soreeya (Toey) salea, Undergraduate Student**
-
-Toey is an undergraduate student in Biotechnology. She has a keen interest in animal research for understanding and improving their health and wellbeing, and are currently exploring this field through her course and lab works. Outside of academics, Toey is a sociable person who loves watching movies, listening to the music, and enjoying recreational activities with friends.
-:::
-
-::: {style="text-align: left;"}
- 
-:::
-
-::: {style="text-align: left;"}
- 
+Kaem is a master student in a Higher Education for Industry (Hi-Fi) consortium, associating in the coffee fermentation process. She graduated with B.Sc. in Biotechnology from Prince of Songkla University. Ouside the lab, she enjoys music and tasting coffee.
 :::
 :::
 :::
@@ -117,21 +61,11 @@ Toey is an undergraduate student in Biotechnology. She has a keen interest in an
 ::: {style="text-align: left;"}
 ![](img/p-suksri.jpg){fig-align="center" width="20%"}
 
-**Phassorn (Thua) Suksri**
+**Phassorn Suksri**
 
 **B.Sc. in Biotechnology**
 
 She finished her B.Sc. Biotechnology from Faculty of Science, PSU. Now, her work is about performing the assessment of indigenous durian for drought-tolerant rootstock production, and shrimp feeding. She is a Thai tea lover. She likes taking photography and listening to music.
-:::
-
-::: {style="text-align: left;"}
-![](img/p-olasard.jpg){fig-align="center" width="20%"}
-
-**Praewrung (Aum) Olasard**
-
-**M.Sc. in Molecular Biology and Bioinformatics**
-
-Aum is a research assistant associating in the projects in marine shrimp molecular biology and microbiome in coffee fermentation. She graduated with M.Sc. in Molecular Biology and Bioinformatics from Prince of Songkla University. Ouside the lab, she enjoys music, and cheering her favourite music bands.
 :::
 
 ::: {style="text-align: left;"}
@@ -140,6 +74,12 @@ Aum is a research assistant associating in the projects in marine shrimp molecul
 :::
 :::
 :::
+
+## Trainee/Internship Members
+
+-   Fareeda Minman (Far) – Walailak University (May 2024 - Present)
+
+-   Suchawadee Attana (Bew) – Walailak University (May 2024 - Present)
 
 ## Former Members
 
